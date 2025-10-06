@@ -1,2 +1,2 @@
 # matrixmultiplication
-it does multiplies the 2 matrices
+it multiplies the 2 matrices
